@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-<head><title>Hai vi</title>
+<head><title>Hai Tyas</title>
 <!-- Created By Chifuy -->
 <script>alert ('hai')
 alert ('Ini isi hatiku yang sesungguhnya')</script>
@@ -127,7 +127,7 @@ position: absolute;top: 0;left: 0;z-index: 3000;cursor: default;}
 ;(function(){
 
 
-var msg = " Love you via:*";
+var msg = " Love you Tyas:*";
 
 var size = 15;
 
